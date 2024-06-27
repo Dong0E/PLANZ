@@ -43,28 +43,26 @@
 
 
   + #### BoardController의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/e67d4772-8579-4a42-b883-0ae116531d7c)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/1e058ee7-d5c4-4093-a826-5a28d9567733)
 
   + #### Criteria
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/98f5d5ca-b98c-4ca5-ad5a-f99ee479348a)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/c6ce5893-cc58-4cfb-8fe9-1ccec9285376)
 
   + #### PageDTO
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/3de21aeb-6117-4efa-a9ea-d53e7559f14f)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0bc1e5de-6170-4d7f-84d2-fe603c195ed8)
 
   + #### BoardServicelmpl의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/9a30a90b-70cd-4912-a460-ad11acf27235)
-
-  + #### BoardMapper의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/df6299a4-3d5b-4e01-b289-aa9ea117849d)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2bfd344e-8381-466a-9734-47b580d81137)
   
   + #### board.xml의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0299b97a-9e4e-4b68-afe0-e46ba98572e7)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/ba1f0386-dd09-4aa2-b952-1f16c0be9a36)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/79cdec4f-fbee-43e9-bfcf-032e5856ee2c)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2048017e-7db1-4150-870a-94ea1b6fa6ec)
+
 
 
 
 + #### 여행지추천 더보기 페이지 (region/regionAddView.html)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/8ecb16da-d6f7-4739-94d7-7f52ded0b244)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/25a7efb9-3872-4944-9a9c-e8ff6a084f37)
 
 
 
@@ -73,12 +71,12 @@
  
   
   + #### regionAddView의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/cc1da91b-6619-45c3-b009-55d9fa88ef73)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/9e29a032-88ad-4223-ad27-bff8f47a9d56)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f8d76043-aada-41b0-b9e1-e68d713c7665)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/93497e2d-5db9-4582-b8fc-9c34bbbf3a3a)
 
   + #### APIController의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/814a9c85-0f43-47a4-9abb-bbc8c55db439)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/6135ff55-7df1-494c-9cae-3910c032e9e9)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/689ff8de-ae6e-43ac-8911-2acf46286a2b)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/71d7a2f8-45ed-4bdc-9ca4-76e47dc18cf2)
 
 
 

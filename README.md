@@ -1,5 +1,5 @@
 # PLANZ
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/caccefb9-18f8-479a-b0eb-422c36812835)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/24c8b6d5-9d68-409d-a22d-adecfd2080df)
 
 + ### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
 
@@ -28,7 +28,7 @@
 ## 구현 부분
 
 + #### 게시판 페이지 (board/list.html)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/a46480ac-a8f9-4e75-b779-3b557c88baac)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/dee0d79d-f249-4381-8929-136dce63ee5a)
 
 
   + ##### 로그인에 상관없이 해당 페이지를 열람 할 수 있습니다.
@@ -37,9 +37,10 @@
   + ##### Spring Boot 컨트롤러는 'Criteria' 객체를 통해 페이징 정보를 받아와 서비스 계층을 통해 해당하는 게시물 목록을 가져오고, 이를 모델에 추가하여 뷰에서 사용할 수 있게 합니다. 뷰에서는 Thymeleaf 템플릿을 통해 동적으로 생성된 HTML을 렌더링하여 사용자에게 게시물 목록을 보여줍니다. MyBatis 매퍼는 SQL 쿼리를 통해 데이터베이스에서 필요한 데이터를 가져오고, 페이징과 검색 조건에 맞는 쿼리를 생성합니다.
  
   + #### list.html의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/d85dfb2b-a52e-4405-8985-8625adc6631e)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f9648a09-e114-4bdf-8d7c-badfb2ba0234)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/93ff2aac-59e1-4a5f-890a-4d64fe151a5f)
+
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/cb9afa58-dd6d-4e66-b72d-979767d853a9)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dce61863-1fca-4e76-b421-855003d71b1e)
+
 
   + #### BoardController의 일부
   ![image](https://github.com/Dong0E/PLANZ/assets/168512107/e67d4772-8579-4a42-b883-0ae116531d7c)

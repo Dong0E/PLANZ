@@ -81,28 +81,24 @@
 
 
 + #### 마이페이지의 충전탭 (user/mypage)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/49c33489-4faf-45d4-ac94-ff31ffbf1fd0)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/ba733fe2-d69e-4051-86ef-24bab27155e4)
-
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/9f597bd6-25ac-42e8-8abc-2139a38d3baf)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/758ac086-08d6-4c9f-b513-f100f67d6b55)
 
   + ##### 포트원 KG이니시스 종합결제API를 이용하여 사이트 화폐인 코인을 충전할 수 있습니다.
   + ##### 결제 금액을 선택 or 직접입력할 수 있으며 선택 후 에는 보유한 코인과 충전한 코인을 볼 수 있습니다 금액 설정 후 결제수단 휴대폰, 카드, 문화상품권 중 하나를 선택 한 후에 결제하기 버튼을 누르면 KG이니시스 통합결제API 팝업창을 통해 결제를 진행 할 수 있습니다.
 
   + #### mypage.html의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/367b3ed8-4ee9-43ae-b090-3aa5a6a244e0)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/b080b2a5-e944-4d55-ab4e-a9077ec26eda)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/b9d3f91e-93f1-4c87-a7d0-72271b3b0ba7)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/c3c0439b-b7c5-4cf7-948b-1128fcd42462)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dacc5b36-d54c-49ed-855c-8c04b7de1962)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/3799a7a0-d913-480b-993a-3d115c28570f)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/850b2ee4-c0a5-4e06-8152-67daac96f62a)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/3447a350-c082-4676-a5ef-debc849d979b)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/9afc2890-880f-4a4c-848b-d8c21d1e43c3)
+
 
 
 + ### 마이페이지의 내정보수정탭 (user/mypage)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/8360f5ee-ee35-4f52-a88b-d22415a08a2a)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/3f453d4c-5c25-4f3e-9637-be55b4a088d5)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/5d122552-abcf-411d-8e9f-cd8ab0a3f6a5)
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/ccf0d949-2e0c-4fa7-951e-286a9721dbd2)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/009055f9-5b41-49ee-8c33-4be763186912)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/1be6efb0-760c-4fca-b8e7-30d417d6b420)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/dcd0bf5f-5b5e-4988-be49-481db6806a41)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/b345f4de-e088-4900-98f7-9cfa27ed09ab)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/c6fa22ce-1ed1-43a1-bd6b-4356d480fd58)
 
 
   + ##### 다음우편번호찾기API, coolsms문자보내기API, 파일업로드 등을 이용한 내정보수정 기능이 구현되어있습니다.
@@ -110,33 +106,28 @@
   + ##### 간편로그인(네이버,구글, 카카오)이용자는 프로필사진과 회원탈퇴만 지원하며 일반 회원가입 유저는 프로필사진, 비밀번호, 전화번호, 이메일, 주소 등의 수정을 지원합니다.
 
   + #### mypage.html 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/aa16c608-7a49-4f54-b065-b2e0151a5d12)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/8a54a917-bb28-4474-877f-72deb25bbd0f)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/9f003954-50f6-4aec-a6cd-a852c5d2b153)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dea7ee6b-8ebc-4e0e-a572-3cab68d29216)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/cd0bcf7a-54a7-4d1e-a38a-4fb18bb1e55f)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/8cf30cb3-6b26-4ebe-b534-a67617f9dbca)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/801c23e7-b298-443e-8e03-bd922e6a7b3d)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/14b36763-20f8-4359-b3ff-156ccfa70702)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2368f780-0da9-4a0a-8c6c-c56cf8feec36)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/69a187db-f8a8-43c7-8e42-6238e5a052dc)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/4e36946e-3201-4860-af7e-ebb017aa91ec)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/5a87faf9-b756-40b3-afb4-f18e34fb051b)
+
 
   + #### UserController의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/1d820e83-ea24-4fe5-b4ad-10cfe83ee4e8)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/742ba45f-94df-4b88-be3f-4b768a8cedfc)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/cb3af2ab-4812-46c6-97db-5069f9f57803)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/38219a27-d228-4258-81e9-32f3345f6c6e)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/bc67f59f-92d6-4442-a9b6-720c5b275e4b)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/694acd3b-63f4-4ea5-9d4e-14fe36749bda)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2bfb817a-83c7-49f1-9778-dfecbc6a5d07)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/3c419d38-e596-474a-85fb-fb6e16279f31)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/4237c95b-9bf3-405e-bcbd-1250382c99b3)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/242a5111-31e5-4fb4-ae68-adb3ccc372bb)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/ee940598-d901-43ae-9aea-88ed6996726d)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/4eec9c50-8101-42c7-8fbf-08e0d379d3c3)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/8fbc65b3-6713-41db-a4b0-a5a856162095)
+  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/a2a29104-ae52-4673-be71-137e58d14b82)
 
 
 ## Flowchart
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/86941e8e-9499-47a7-a884-fee22ab1b75d)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)
+
 
 ## ERD
 https://dbdiagram.io/d/667ba4819939893dae47edb4
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/206c1356-01f8-43ce-9626-5663dd95500a)
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
+
 
 
 

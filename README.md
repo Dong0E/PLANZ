@@ -1,34 +1,35 @@
 # PLANZ
 + ### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/24c8b6d5-9d68-409d-a22d-adecfd2080df)
-
-
-
+<br/>
+<br/>
+<br/>
 ## 1. 프로젝트 목적
-
+<br/>
 ###### "무산된 여행일정과, 예약상품을 안전하게 거래하고 동행자를 구할 수 있으며 공공데이터API기반 여행지를 추천받아 여행계획을 더 편안하게 계획할 수 있는 플랫폼 구축"   
-
+<br/>
+<br/>
 ## 2. 프로젝트 기간
-
+<br/>
 + #### 2024.05.27 ~ 2024.06.21
-
+<br/>
 ## 3. 개발 인원
-
+<br/>
 + #### 6명(팀프로젝트)
-
+<br/>
 ## 4. 개발환경
-
+<br/>
 + #### O/S : window10
 + #### Server : Apache Tomcat 8.5
 + #### DB : Database Management System (DBMS): MySQL8.0.36
 + #### Framwork/Flatform : Spring, Mybatis, jQuery, Thymeleaf
 + #### Language : Java, Javascript, HTML5, CSS3
 + #### Tool : Eclipse, GitHub, Git(Source Tree), SQL Developer
-
+<br/>
 ## 5. ERD
 https://dbdiagram.io/d/667ba4819939893dae47edb4
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
-
+<br/>
 
 ## 6. Flowchart
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)

@@ -35,7 +35,7 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
 
 ## 7. 구현 부분
 
-+ #### 게시판 페이지 (board/list.html)
++ #### 7-1 게시판 페이지 (board/list.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dee0d79d-f249-4381-8929-136dce63ee5a)
 
 
@@ -46,7 +46,7 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
  
 
 
-+ #### 여행지추천 더보기 페이지 (region/regionAddView.html)
++ #### 7-2 여행지추천 더보기 페이지 (region/regionAddView.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/25a7efb9-3872-4944-9a9c-e8ff6a084f37)
 
 

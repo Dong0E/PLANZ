@@ -1,38 +1,28 @@
 # PLANZ
 ### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/24c8b6d5-9d68-409d-a22d-adecfd2080df)
-<br/>
-<br/>
+
 ## 1. 프로젝트 목적
-<br/>
 ###### "무산된 여행일정과, 예약상품을 안전하게 거래하고 동행자를 구할 수 있으며 공공데이터API기반 여행지를 추천받아 여행계획을 더 편안하게 계획할 수 있는 플랫폼 구축"   
 
 ## 2. 프로젝트 기간
-<br/>
 + #### 2024.05.27 ~ 2024.06.21
-<br/>
-<br/>
+
 ## 3. 개발 인원
-<br/>
 + #### 6명(팀프로젝트)
-<br/>
-<br/>
+
 ## 4. 개발환경
-<br/>
 + #### O/S : window10
 + #### Server : Apache Tomcat 8.5
 + #### DB : Database Management System (DBMS): MySQL8.0.36
 + #### Framwork/Flatform : Spring, Mybatis, jQuery, Thymeleaf
 + #### Language : Java, Javascript, HTML5, CSS3
 + #### Tool : Eclipse, GitHub, Git(Source Tree), SQL Developer
-<br/>
-<br/>
+
 ## 5. ERD
-<br/>
 https://dbdiagram.io/d/667ba4819939893dae47edb4
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
-<br/>
-<br/>
+
 ## 6. Flowchart
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)
 
@@ -44,9 +34,7 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
   + ##### 가장 먼저 작성된 게시글이 먼저 보이게 되며 게시글을 클릭시 상세보기가 가능합니다.
   + ##### 한페이지에 20개씩 나타나며 게시판 하단에 페이징, 검색 기능을 이용할 수 있습니다.
   + ##### Spring Boot 컨트롤러는 'Criteria' 객체를 통해 페이징 정보를 받아와 서비스 계층을 통해 해당하는 게시물 목록을 가져오고, 이를 모델에 추가하여 뷰에서 사용할 수 있게 합니다. 뷰에서는 Thymeleaf 템플릿을 통해 동적으로 생성된 HTML을 렌더링하여 사용자에게 게시물 목록을 보여줍니다. MyBatis 매퍼는 SQL 쿼리를 통해 데이터베이스에서 필요한 데이터를 가져오고, 페이징과 검색 조건에 맞는 쿼리를 생성합니다.
-<br/>
-<br/>
-<br/>
+
 
 
 #### 여행지추천 더보기 페이지 (region/regionAddView.html)

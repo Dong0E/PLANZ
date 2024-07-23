@@ -4,19 +4,19 @@
 
 
 
-## 프로젝트 목적
+## 1. 프로젝트 목적
 
 ###### "무산된 여행일정과, 예약상품을 안전하게 거래하고 동행자를 구할 수 있으며 공공데이터API기반 여행지를 추천받아 여행계획을 더 편안하게 계획할 수 있는 플랫폼 구축"   
 
-## 프로젝트 기간
+## 2. 프로젝트 기간
 
 + #### 2024.05.27 ~ 2024.06.21
 
-## 개발 인원
+## 3. 개발 인원
 
 + #### 6명(팀프로젝트)
 
-## 개발환경
+## 4. 개발환경
 
 + #### O/S : window10
 + #### Server : Apache Tomcat 8.5
@@ -25,9 +25,13 @@
 + #### Language : Java, Javascript, HTML5, CSS3
 + #### Tool : Eclipse, GitHub, Git(Source Tree), SQL Developer
 
-## ERD
+## 5. ERD
 https://dbdiagram.io/d/667ba4819939893dae47edb4
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
+
+
+## 6. Flowchart
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)
 
 ## 구현 부분
 
@@ -127,10 +131,6 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
 ## Flowchart
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)
 
-
-## ERD
-https://dbdiagram.io/d/667ba4819939893dae47edb4
-![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
 
 
 

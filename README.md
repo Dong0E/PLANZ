@@ -1,7 +1,8 @@
-# PLANZ        
+# PLANZ
 ### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/24c8b6d5-9d68-409d-a22d-adecfd2080df)
 
+  
 ## 1. 프로젝트 목적
 ###### "무산된 여행일정과, 예약상품을 안전하게 거래하고 동행자를 구할 수 있으며 공공데이터API기반 여행지를 추천받아 여행계획을 더 편안하게 계획할 수 있는 플랫폼 구축"   
 

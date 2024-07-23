@@ -1,5 +1,5 @@
 # PLANZ
-+ ### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
+### SpringFramework를 이용한 여행일정 관리 및 추천 웹 프로젝트
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/24c8b6d5-9d68-409d-a22d-adecfd2080df)
 <br/>
 <br/>

@@ -37,16 +37,16 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
 
 #### 게시판 페이지 (board/list.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dee0d79d-f249-4381-8929-136dce63ee5a)
-
-
   + ##### 로그인에 상관없이 해당 페이지를 열람 할 수 있습니다.
   + ##### 가장 먼저 작성된 게시글이 먼저 보이게 되며 게시글을 클릭시 상세보기가 가능합니다.
   + ##### 한페이지에 20개씩 나타나며 게시판 하단에 페이징, 검색 기능을 이용할 수 있습니다.
   + ##### Spring Boot 컨트롤러는 'Criteria' 객체를 통해 페이징 정보를 받아와 서비스 계층을 통해 해당하는 게시물 목록을 가져오고, 이를 모델에 추가하여 뷰에서 사용할 수 있게 합니다. 뷰에서는 Thymeleaf 템플릿을 통해 동적으로 생성된 HTML을 렌더링하여 사용자에게 게시물 목록을 보여줍니다. MyBatis 매퍼는 SQL 쿼리를 통해 데이터베이스에서 필요한 데이터를 가져오고, 페이징과 검색 조건에 맞는 쿼리를 생성합니다.
- 
+<br/>
+<br/>
+<br/>
 
 
-+ #### 7-2 여행지추천 더보기 페이지 (region/regionAddView.html)
+#### 여행지추천 더보기 페이지 (region/regionAddView.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/25a7efb9-3872-4944-9a9c-e8ff6a084f37)
 
 

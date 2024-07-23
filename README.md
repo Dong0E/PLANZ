@@ -41,14 +41,14 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
   + ##### 사용자는 지역을 선택하여 추천 여행지를 열람할 수 있습니다.
   + ##### 공공데이터API를 이용하여 데이터를 AJAX를 통해 동적으로 불러와 화면에 출력하는 기능이 구현되어있습니다.
  
-+ ### 마이페이지의 충전탭 (user/mypage)
+### 마이페이지의 충전탭 (user/mypage)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/9f597bd6-25ac-42e8-8abc-2139a38d3baf)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/758ac086-08d6-4c9f-b513-f100f67d6b55)
 
   + ##### 포트원 KG이니시스 종합결제API를 이용하여 사이트 화폐인 코인을 충전할 수 있습니다.
   + ##### 결제 금액을 선택 or 직접입력할 수 있으며 선택 후 에는 보유한 코인과 충전한 코인을 볼 수 있습니다 금액 설정 후 결제수단 휴대폰, 카드, 문화상품권 중 하나를 선택 한 후에 결제하기 버튼을 누르면 KG이니시스 통합결제API 팝업창을 통해 결제를 진행 할 수 있습니다.
 
-+ ### 마이페이지의 내정보수정탭 (user/mypage)
+### 마이페이지의 내정보수정탭 (user/mypage)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/009055f9-5b41-49ee-8c33-4be763186912)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/1be6efb0-760c-4fca-b8e7-30d417d6b420)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dcd0bf5f-5b5e-4988-be49-481db6806a41)

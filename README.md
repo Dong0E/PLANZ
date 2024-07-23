@@ -35,7 +35,7 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
 
 ## 7. 구현 부분
 
-+ #### 7-1 게시판 페이지 (board/list.html)
+#### 게시판 페이지 (board/list.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dee0d79d-f249-4381-8929-136dce63ee5a)
 
 

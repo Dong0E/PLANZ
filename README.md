@@ -25,6 +25,10 @@
 + #### Language : Java, Javascript, HTML5, CSS3
 + #### Tool : Eclipse, GitHub, Git(Source Tree), SQL Developer
 
+## ERD
+https://dbdiagram.io/d/667ba4819939893dae47edb4
+![image](https://github.com/Dong0E/PLANZ/assets/168512107/0c4fe48b-8d71-4e3f-a9a7-8e6782e50899)
+
 ## 구현 부분
 
 + #### 게시판 페이지 (board/list.html)

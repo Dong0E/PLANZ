@@ -33,7 +33,7 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
 ## 6. Flowchart
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/f75e18ae-1f7b-43d8-b7b5-91156304c3da)
 
-## 구현 부분
+## 7. 구현 부분
 
 + #### 게시판 페이지 (board/list.html)
 ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dee0d79d-f249-4381-8929-136dce63ee5a)
@@ -44,29 +44,6 @@ https://dbdiagram.io/d/667ba4819939893dae47edb4
   + ##### 한페이지에 20개씩 나타나며 게시판 하단에 페이징, 검색 기능을 이용할 수 있습니다.
   + ##### Spring Boot 컨트롤러는 'Criteria' 객체를 통해 페이징 정보를 받아와 서비스 계층을 통해 해당하는 게시물 목록을 가져오고, 이를 모델에 추가하여 뷰에서 사용할 수 있게 합니다. 뷰에서는 Thymeleaf 템플릿을 통해 동적으로 생성된 HTML을 렌더링하여 사용자에게 게시물 목록을 보여줍니다. MyBatis 매퍼는 SQL 쿼리를 통해 데이터베이스에서 필요한 데이터를 가져오고, 페이징과 검색 조건에 맞는 쿼리를 생성합니다.
  
-  + #### list.html의 일부
-
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/cb9afa58-dd6d-4e66-b72d-979767d853a9)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/dce61863-1fca-4e76-b421-855003d71b1e)
-
-
-  + #### BoardController의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/1e058ee7-d5c4-4093-a826-5a28d9567733)
-
-  + #### Criteria
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/c6ce5893-cc58-4cfb-8fe9-1ccec9285376)
-
-  + #### PageDTO
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/0bc1e5de-6170-4d7f-84d2-fe603c195ed8)
-
-  + #### BoardServicelmpl의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2bfd344e-8381-466a-9734-47b580d81137)
-  
-  + #### board.xml의 일부
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/79cdec4f-fbee-43e9-bfcf-032e5856ee2c)
-  ![image](https://github.com/Dong0E/PLANZ/assets/168512107/2048017e-7db1-4150-870a-94ea1b6fa6ec)
-
-
 
 
 + #### 여행지추천 더보기 페이지 (region/regionAddView.html)
